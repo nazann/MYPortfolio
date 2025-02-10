@@ -1,0 +1,16 @@
+Bootstrap_Flask==2.3.3
+Werkzeug==3.0.0
+Flask==2.3.2
+gunicorn==21.2.0
+psycopg2-binary==2.9.10
+blinker==1.9.0
+click==8.1.8
+colorama==0.4.6
+dominate==2.9.1
+Flask==2.2.5
+Flask-Bootstrap==3.3.7.1
+itsdangerous==2.2.0
+Jinja2==3.1.5
+MarkupSafe==3.0.2
+psycopg2==2.9.10
+
